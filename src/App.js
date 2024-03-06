@@ -17,12 +17,7 @@ import Landlord from './Pages/LandlordSection/LandlordPage';
 import Footer from './Components/Footer';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-// Main
-import Main from './Pages/HomeSection/Main';
-import LoginPage from './Pages/HomeSection/LoginPage';
 
-//tenant
-import TenantMain from './Pages/TenantSection/TenantMain';
 
 
 function App() {
@@ -49,12 +44,8 @@ function App() {
       <Route path='/uploadlisting/finish' element={<Success/>}></Route>
       <Route path='/landlord' element={<Landlord/>}></Route>
 
-      <Route path='/' element={<Main/>}></Route>
-      <Route path='/LoginT' element={<LoginPage/>}></Route>
-      <Route path='/LoginL' element={<LoginPage/>}></Route>
+   
 
-
-      <Route path='/tenant' element={<TenantMain/>}></Route>
     
       </Routes>
       </BrowserRouter>
