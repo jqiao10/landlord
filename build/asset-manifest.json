@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rental/static/css/main.f9e15ba3.css",
+    "main.js": "/Rental/static/js/main.a1b5fe64.js",
+    "static/js/453.0fff2ecc.chunk.js": "/Rental/static/js/453.0fff2ecc.chunk.js",
+    "static/media/house1.jpeg": "/Rental/static/media/house1.9a35acc4f58655b6a45a.jpeg",
+    "index.html": "/Rental/index.html",
+    "main.f9e15ba3.css.map": "/Rental/static/css/main.f9e15ba3.css.map",
+    "main.a1b5fe64.js.map": "/Rental/static/js/main.a1b5fe64.js.map",
+    "453.0fff2ecc.chunk.js.map": "/Rental/static/js/453.0fff2ecc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9e15ba3.css",
+    "static/js/main.a1b5fe64.js"
+  ]
+}
